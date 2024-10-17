@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.f90": "fortran"
+    },
+    "fortran.linter.compiler": "gfortran",
+    "fortran.linter.compilerArgs": [
+        "-Wall",
+        "-g"
+    ]
+}
